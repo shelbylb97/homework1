@@ -71,7 +71,7 @@ p {
 
 .content {
     width: 75%;
-    display: block;
+    display: inline-block;
     margin-left: 20px;
 }
 
